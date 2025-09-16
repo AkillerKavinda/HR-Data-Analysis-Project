@@ -221,8 +221,7 @@ GROUP BY department;
 
 6. Gender distribution across departments is fairly balanced overall but generally there are more males than females.
 
-7. The company has a wide range of job titles, but a few roles dominate the structure.  
-   - Most common titles include:  Research Assistant II (608), Business Analyst (552), Human Resources Analyst II (477)  
+7. The company has a wide range of job titles, but a few roles like Research Assistant II, Business Analyst, and HR Analyst II dominate the workplace.
 
 8. The auditing department has the highest turnover rate.
 
