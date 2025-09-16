@@ -211,7 +211,7 @@ GROUP BY department;
 
 1. The gender breakdown shows a balanced workforce: ~8.9K male, ~8K female, and 481 non-conforming employees.
 
-2. The race/ethnicity breakdown is predominantly White, followed by Two or More Races, and Black or Afriacan American. 
+2. The race/ethnicity breakdown is predominantly White, followed by Two or More Races, and Black or African American. 
 
 3. Most employees are aged between 35 - 44. 
 
@@ -219,28 +219,18 @@ GROUP BY department;
 
 5. The average length of employment for terminated employees is approximately 8 years.
 
-6. Gender distribution across departments is fairly balanced overall but generally there are more males then females.
+6. Gender distribution across departments is fairly balanced overall but generally there are more males than females.
 
 7. The company has a wide range of job titles, but a few roles dominate the structure.  
-   - Most common titles include:  
-     - Research Assistant II (608)  
-     - Business Analyst (552)  
-     - Human Resources Analyst II (477)  
-     - Research Assistant I (408)  
-     - Account Executive (386)  
-   → These roles represent the largest employee groups, while many other titles appear in smaller numbers.
+   - Most common titles include:  Research Assistant II (608), Business Analyst (552), Human Resources Analyst II (477)  
 
 8. The auditing department has the highest turnover rate.
 
-9. Most of the employees are located in the Ohio state (3108) followed by Pennysilvenia (174), and Illinois (135) while Wisconsin has the least (57).
+9. Most of the employees are located in Ohio (3108) followed by Pennysilvania (174), and Illinois (135) while Wisconsin has the least (57).
 
 10. The company's net change percent has increased over the years. 
 
-11. Average tenure varies slightly across departments.  
-    - Engineering, Services, Sales, Support, R&D, and Business Development all average **11 years**.  
-    - Product Management, HR, Auditing, Training, Accounting, and Marketing average **10 years**.  
-    - Legal has the shortest average tenure at **9 years**.  
-    → Most departments show strong retention, with Engineering and Services leading in tenure.
+11. Average tenure varies by department: Most range from 10–11 years, with Engineering and Services highest (11 years) and Legal the lowest (9 years).
 
 ## Limitations
 
