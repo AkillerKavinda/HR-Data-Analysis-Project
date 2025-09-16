@@ -12,6 +12,18 @@ Cleaning and analyzing employee data from 2000–2020 using **MySQL**, and creat
 ## Overview
 This project helps understand workforce trends and turnover patterns over 20 years.
 
+## Power BI Dashboard
+
+### Page 1: Overview & Key Metrics  
+![Dashboard Page 1](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/Dashboard-Images/dashboard-page-1.png?raw=true)
+
+This page highlights overall employee distribution, age groups, and gender breakdown.
+
+### Page 2: Turnover & Tenure Insights  
+![Dashboard Page 2](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/Dashboard-Images/dashboard-page-2.png?raw=true)
+
+This page focuses on turnover rates by department, tenure averages, and employment trends over time.
+
 ## Key Questions  
 The analysis addresses the following questions:  
 
@@ -197,8 +209,35 @@ GROUP BY department;
 
 ## Summary of Findings
 
-*To be added...*
+1. The gender breakdown shows a balanced workforce: ~8.9K male, ~8K female, and 481 non-conforming employees.
 
-## Power BI Dashboard
+2. The race/ethnicity breakdown is predominantly White, followed by Two or More Races, and Black or Afriacan American. 
 
-*To be added...*
+3. Most employees are aged between 35 - 44. 
+
+4. Around 13K employees work at headquarters, while 4K are based in remote locations.
+
+5. The average length of employment for terminated employees is approximately 8 years.
+
+6. Gender distribution across departments is fairly balanced overall but generally there are more males then females.
+
+7. The company has a wide range of job titles, but a few roles dominate the structure.  
+   - Most common titles include:  
+     - Research Assistant II (608)  
+     - Business Analyst (552)  
+     - Human Resources Analyst II (477)  
+     - Research Assistant I (408)  
+     - Account Executive (386)  
+   → These roles represent the largest employee groups, while many other titles appear in smaller numbers.
+
+8. The auditing department has the highest turnover rate.
+
+9. Most of the employees are located in the Ohio state (3108) followed by Pennysilvenia (174), and Illinois (135) while Wisconsin has the least (57).
+
+10. The company's net change percent has increased over the years. 
+
+11. Average tenure varies slightly across departments.  
+    - Engineering, Services, Sales, Support, R&D, and Business Development all average **11 years**.  
+    - Product Management, HR, Auditing, Training, Accounting, and Marketing average **10 years**.  
+    - Legal has the shortest average tenure at **9 years**.  
+    → Most departments show strong retention, with Engineering and Services leading in tenure.
