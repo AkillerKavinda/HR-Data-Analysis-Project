@@ -3,11 +3,11 @@
 Cleaning and analyzing employee data from 2000–2020 using **MySQL**, and creating **Power BI dashboards** to visualize trends in age, gender, race, location, job roles, and turnover.
 
 ## Files
-- `hr-dataset.csv` – Original dataset  
-- `data-cleaning.sql` – SQL queries for cleaning the dataset  
-- `data-analysis.sql` – SQL queries for analysis  
-- `Analysis-Results/` – Query output files  
-- `hr-dashboard.pbix` – Power BI dashboard  
+- [`hr-dataset.csv`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/hr-dataset.csv) – Original dataset  
+- [`data-cleaning.sql`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/data-cleaning.sql) – SQL queries for cleaning the dataset  
+- [`data-analysis.sql`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/data-analysis.sql) – SQL queries for analysis  
+- [`Analysis-Results/`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/tree/main/Analysis-Results) – Query output files  
+- [`hr-dashboard.pbix`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/hr-dashboard.pbix) – Power BI dashboard  
 
 ## Overview
 This project helps understand workforce trends and turnover patterns over 20 years.
