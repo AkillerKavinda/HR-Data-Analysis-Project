@@ -241,3 +241,7 @@ GROUP BY department;
     - Product Management, HR, Auditing, Training, Accounting, and Marketing average **10 years**.  
     - Legal has the shortest average tenure at **9 years**.  
     → Most departments show strong retention, with Engineering and Services leading in tenure.
+
+## Limitations
+
+Records with negative ages and future termination dates were excluded. Only ages 18 and above and termination dates up to today were used.
