@@ -4,7 +4,7 @@
 
  ## Overview
 
-Cleaning and analyzing employee data from 2000–2020 using **MySQL**, and creating **Power BI dashboards** to visualize trends in age, gender, race, location, job roles, and turnover.
+Cleaning and analyzing employee data from 2000–2020 using **Microsoft SQL Server Management Studio (SSMS)**, and creating **Power BI dashboards** to visualize trends in age, gender, race, location, job roles, and turnover.
 
 ## Files
 - [`hr-dataset.csv`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/hr-dataset.csv) – Original dataset  
