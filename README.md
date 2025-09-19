@@ -1,5 +1,9 @@
 # HR-Data-Analysis-Project
 
+> **Note:** This project was built while following a YouTube tutorial to practice MySQL and Power BI for HR data analysis. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
+
+ ## Overview
+
 Cleaning and analyzing employee data from 2000–2020 using **MySQL**, and creating **Power BI dashboards** to visualize trends in age, gender, race, location, job roles, and turnover.
 
 ## Files
@@ -8,9 +12,6 @@ Cleaning and analyzing employee data from 2000–2020 using **MySQL**, and creat
 - [`data-analysis.sql`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/data-analysis.sql) – SQL queries for analysis  
 - [`Analysis-Results/`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/tree/main/Analysis-Results) – Query output files  
 - [`hr-dashboard.pbix`](https://github.com/AkillerKavinda/HR-Data-Analysis-Project/blob/main/hr-dashboard.pbix) – Power BI dashboard  
-
-## Overview
-This project helps understand workforce trends and turnover patterns over 20 years.
 
 ## Power BI Dashboard
 
